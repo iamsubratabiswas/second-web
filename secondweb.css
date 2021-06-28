@@ -69,18 +69,17 @@ p{
     height: 700px;
     background-size: 100% 100%;
     padding-top: 50px;
-    padding-left: 10%;
+    text-align: center;
+    /* padding-left: 10%; */
 
 }
 .onethird{
-    border: 3px solid black;
     width: 30%;
     float: left;
+    margin-left: 40px;
+    box-shadow: 10px 10px 40px violet;
 }
 
-.centr{
-   padding-left: 40%;
-}
 
 .onethird img{
     width: 100%;
